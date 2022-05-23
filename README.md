@@ -15,3 +15,15 @@ Components Used:
   6. Few Jumper Wires <br>
   7. Battery Connector (to conncet power source with shield) <br>
   8.USB Cable (B-Type)
+
+  
+  <p>
+    Application Used: ESP8266 Wifi Robot Car <br>
+    Link to App: https://play.google.com/store/apps/details?id=com.bluino.esp8266wifirobotcar <br>
+    
+This code is based on STA connections, means you have to connect both the mode-MCU and and your mobile phone with the same wi-fi network to make it work. <br>
+In the application, after connecting it with the needed wi-fi network, just run the code and wait for the output of the IP address of your wifi-network. Then in the applcation you can see "select your IP address", select the same IP you have got in serial monitor, then if your add conncets it and every connction and code is right you car will move arrordingly.
+
+<p>
+  I will update more details about the car later on, like detailed connections etc. <br>
+Thanks!!
